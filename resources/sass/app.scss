@@ -1,0 +1,15 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+@import 'styleApp';
+@import 'styleHome';
+@import 'styleUsers';
+@import 'styleFriendRequests';
+@import '_styleShowUser';
+@import 'friendList';
+@import 'messages';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';

@@ -1,0 +1,25 @@
+.friend{
+    margin: 10px auto;
+    border-radius: 5px;
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    // align-items: center;
+    // background-color: aqua;
+    border: 2px solid black;
+    img{
+        width: 75px;
+        height: 75px;
+        margin: 10px;
+    }
+    .icons{
+  
+        display: flex;
+        align-items: center;
+        form{
+            font-size:15px;
+            margin: 15px;
+        }
+      
+    }
+}

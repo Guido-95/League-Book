@@ -1,0 +1,47 @@
+body{
+    padding: 50px;
+    text-align: center;
+    
+}
+
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1877f2 !important;
+}
+
+.login{
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 10px;
+    text-align: center;
+    /* margin: auto; */
+    /* width: 20%; */
+}
+
+#email,#password{
+    padding: 10px;
+    margin: 15px auto;
+    width: 40%;
+}
+
+.button-login{
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+    background-color: #1877f2;
+}
+
+.button-register{
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+    background-color: #42b72a;
+}
+.button-register:hover{
+    color: white;
+    text-decoration: none;
+   
+}
+
